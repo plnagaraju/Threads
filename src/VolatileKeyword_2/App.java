@@ -1,4 +1,4 @@
-package demo2;
+package VolatileKeyword_2;
 
 class Runner implements Runnable {
 

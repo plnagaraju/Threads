@@ -1,4 +1,4 @@
-package demo4;
+package JoiningAndSynchronizedThreads_3;
 
 import java.util.Scanner;
 
